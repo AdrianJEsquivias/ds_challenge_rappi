@@ -1,4 +1,4 @@
 1.- Cargar la Clase en un archivo .py o .ipynb
-2.- Dejar los archivos encoder_genero.joblib, encoder_dia.joblib, modelo_clasificador.pkl, scaler.pkl y pre.xlsx en la misma carperta que la clase
+2.- Dejar los archivos encoder_genero.joblib, encoder_dia.joblib, modelo_clasificador.pkl, scaler.pkl,encoder_establecimiento.joblib, encoder_ciudad.joblib y  pre.xlsx en la misma carperta que la clase
 3.- Dar como valor la ruta con le nombre del archivo en Excel con los datos para hacer la predicción
 4.- La clase retorna el mismo archivo con la predicción
